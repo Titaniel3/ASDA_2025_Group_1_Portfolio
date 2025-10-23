@@ -6,7 +6,7 @@
 
 | Item Description |   |
 |-------------------|---|
-| Dataset name |   |
+| Dataset name |  example.csv |
 | Number of rows |   |
 | Number of columns |   |
 | Format file (.csv, .txt, etc) |   |
