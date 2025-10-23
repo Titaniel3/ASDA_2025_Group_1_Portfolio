@@ -4,17 +4,19 @@
 
 ## 1. Dataset Overview
 
-| Item Description |   |
-|-------------------|---|
-| Dataset name |   |
-| Number of rows |   |
-| Number of columns |   |
-| Format file (.csv, .txt, etc) |   |
-| Authors of the dataset |   |
-| Source (name) |   |
-| Source (link) |   |
+| Item Description |      |
+|-------------------|------|
+| Dataset name |      |
+| Number of rows |      |
+| Number of columns |      |
+| Format file (.csv, .txt, etc) | .csv |
+| Authors of the dataset |      |
+| Source (name) |      |
+| Source (link) |      |
 
 **Short description (what is it about?)**
+
+The dataset contains information of 20.000 chess matches. It lists general information about the match and provides a step-by-step documentation about the moves that were played.
 
 ---
 
