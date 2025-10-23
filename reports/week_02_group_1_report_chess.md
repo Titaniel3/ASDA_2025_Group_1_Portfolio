@@ -1,4 +1,4 @@
-# Basic EDA of Two Datasets – Report Structure for Week 2
+# Chess Report
 
 ---
 
