@@ -24,18 +24,18 @@ Sleep health metrics and related lifestyle factors.
 | Column name | Data type | Non-null count | Unique values | Example values |
 |--------------|------------|----------------|----------------|----------------|
 | Person ID | int | 374 | 374 | 1, 2, 3 |
-| Gender | string | 374 | 2 | Male, Female |
+| Gender | object | 374 | 2 | Male, Female |
 | Age | int | 374 | 31 | 27, 28, 29 |
-| Occupation | string | 374 | 11 | Software Engineer, Doctor, Sales Representative |
+| Occupation | object | 374 | 11 | Software Engineer, Doctor, Sales Representative |
 | Sleep Duration | float | 374 | 27 | 6.1, 6.2, 5.9 |
 | Quality of Sleep | int | 374 | 6 | 6, 4, 7 |
 | Physical Activity Level | int | 374 | 16 | 42, 60, 30 |
 | Stress Level | int | 374 | 6 | 6, 8, 7 |
-| BMI Category | string | 374 | 4 | Overweight, Normal, Obese |
-| Blood Pressure | string | 374 | 25 | 126/83, 125/80, 140/90 |
+| BMI Category | object | 374 | 4 | Overweight, Normal, Obese |
+| Blood Pressure | object | 374 | 25 | 126/83, 125/80, 140/90 |
 | Heart Rate | int | 374 | 19 | 77, 75, 85 |
 | Daily Steps | int | 374 | 20 | 4200, 10000, 3000 |
-| Sleep Disorder | string | 374 | 3 | None, Sleep Apnea, Insomnia |
+| Sleep Disorder | object | 374 | 3 | None, Sleep Apnea, Insomnia |
 
 ---
 
